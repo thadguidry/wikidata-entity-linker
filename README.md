@@ -1,6 +1,6 @@
 # Wikidata Entity Linker Extension
 
-An extension that creates web links for matching inner HTML text based on a regex format of \sQ\\d+ which is the format of a Wikidata Entity ID.
+An extension that creates web links for matching inner HTML text based on a regex format of `Q\d+` which is the format of a Wikidata Entity ID.
 
 ## How to Install
 
@@ -16,7 +16,7 @@ An extension that creates web links for matching inner HTML text based on a rege
 
 ## How to Use
 
-1. After installing the extension, navigate to any webpage with HTML text that matches the regex format \sQ\d+
+1. After installing the extension, navigate to any webpage with HTML text that matches the regex format `\sQ\d+`
 
 2. The extension will automatically create Wikidata Entity links https://wikidata.org/entity/ for the matching text, such as Q42.
 
