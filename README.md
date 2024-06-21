@@ -24,6 +24,8 @@ An extension that creates web links for matching inner HTML text based on a rege
 
 4. You can also Right Click on generated links and choose "Open link in split screen window" and adjust the middle handle for panel size.  You can then Left Click as normal on entity links and they will open in the secondary split window automatically, allowing you to keep viewing your primary window as you click links within it that will open in the split window.  Boom baby! 
 
+![image](https://github.com/thadguidry/wikidata-entity-linker/assets/986438/8bd4c51e-1914-4cb1-a9a3-dfe785b0efc0)
+
 ## How to Test
 
 To test the extension locally, follow the "How to Install" instructions above. Once installed, visit a webpage with text matching the regex format Q\\d+ and verify that the links are created correctly.
