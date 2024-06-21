@@ -1,4 +1,4 @@
-# Web Link Creator Extension
+# Wikidata Entity Linker Extension
 
 An extension that creates web links for matching inner HTML text based on a regex format of \sQ\\d+ which is the format of a Wikidata Entity ID.
 
