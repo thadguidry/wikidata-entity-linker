@@ -40,7 +40,7 @@ To test the extension locally, follow the "How to Install" instructions above. O
 
 ## How to Distribute
 
-To distribute the extension, you can package it as a .appx file and submit it to the Microsoft Edge Add-ons store. Refer to the [official Edge extension distribution guide](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/packaging/) for more details.
+To distribute the extension, you can package it as a .zip file and submit it to the Microsoft Edge Add-ons store. Refer to the [official Edge extensions overview](https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/) for more details.
 
 ## Next Steps
 
